@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Leonardo Tsuga</h1>
-<h3 align="center">Working my way as a Development</h3>
+<h3 align="center">Working my way as a Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ltsuga&label=Profile%20views&color=0e75b6&style=flat" alt="ltsuga" /> </p>
 
